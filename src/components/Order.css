@@ -1,0 +1,8 @@
+.order {
+    display: block;
+  }
+  
+  .order-flex {
+    display: flex;
+    justify-content: center;
+  }

@@ -1,3 +1,10 @@
-.header {
-  display: none;
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+}
+
+a:visited {
+  color: white;
 }

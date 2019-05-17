@@ -1,0 +1,9 @@
+
+  .cats {
+    display: block;
+  }
+
+  .cats-flex {
+    display: flex;
+    justify-content: center;
+  }
